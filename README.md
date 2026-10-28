@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SoilOptix is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://soiloptix.com/
+SoilOptix® has been working for decades on soil analysis, setting the standard for accuracy and precision in soil and field mapping for agriculture. Research began in Europe in 2003 on gamma radiation in agriculture, leading to the founding of Practical Precision Inc. in 2009 and the introduction of SoilOptix® technology to North America in 2010. Today the company provides advanced soil mapping solutions that help growers optimize inputs, improve yields, and promote sustainable farming practices.
+
+**Areas:** Agriculture · Soil-Analysis · Precision-Agriculture · Mapping · Technology
+
+## SoilOptix on APIs.io
+
+Everything profiled for SoilOptix is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/soiloptix/](https://apis.io/providers/soiloptix/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [SoilOptix Analyses - Billable API](https://apis.io/apis/soiloptix/soiloptix-analyses-billable-api/) — Create a new analysis for a field, make changes to an existing Analysis, or view Messages and Files related to an Analysis. To submit a new Analysis, you…
+- [SoilOptix Analyses - Read API](https://apis.io/apis/soiloptix/soiloptix-analyses-read-api/) — View general information about an Analysis and the available Models. A Model represents a soil property, such as Sand, Silt, or Clay. Exports provides a…
+- [SoilOptix Authentication API](https://apis.io/apis/soiloptix/soiloptix-authentication-api/) — Follows the OAuth 2.0 Specification and adds additional forgot password functionality. New users can only be registered with a valid business invitation…
+- [SoilOptix Businesses API](https://apis.io/apis/soiloptix/soiloptix-businesses-api/) — Distributors, Providers, and Clients are all Businesses. If you have admin access to a Business you will be able to view and modify Invitations and…
+- [SoilOptix Countries API](https://apis.io/apis/soiloptix/soiloptix-countries-api/) — Businesses, Farms, and Fields accept a CountryId to help you filter and find your data.
+- [SoilOptix Farms API](https://apis.io/apis/soiloptix/soiloptix-farms-api/) — Farms are attached directly to a Business and provide a level of organization within a Business.
+- [SoilOptix Fields API](https://apis.io/apis/soiloptix/soiloptix-fields-api/) — Fields are attached directly to a Farm and provide a level of organization within a Farm. When requesting the Boundary of a Field, the Boundary of the…
+- [SoilOptix My Account API](https://apis.io/apis/soiloptix/soiloptix-my-account-api/) — View and make changes to your customer profile. Businesses will show what businesses you have been granted access to along with your level of permission.…
+- [SoilOptix v3 - Boundaries API](https://apis.io/apis/soiloptix/soiloptix-v3-boundaries-api/) — The v3 - Boundaries API from SoilOptix — 2 operation(s) for v3 - boundaries.
+- [SoilOptix v3 - Customers API](https://apis.io/apis/soiloptix/soiloptix-v3-customers-api/) — The v3 - Customers API from SoilOptix — 3 operation(s) for v3 - customers.
+- [SoilOptix v3 - Farms API](https://apis.io/apis/soiloptix/soiloptix-v3-farms-api/) — The v3 - Farms API from SoilOptix — 3 operation(s) for v3 - farms.
+- [SoilOptix v3 - Fields API](https://apis.io/apis/soiloptix/soiloptix-v3-fields-api/) — The v3 - Fields API from SoilOptix — 3 operation(s) for v3 - fields.
+- [SoilOptix v3 - Identity API](https://apis.io/apis/soiloptix/soiloptix-v3-identity-api/) — The v3 - Identity API from SoilOptix — 2 operation(s) for v3 - identity.
+- [SoilOptix v3 - Sets API](https://apis.io/apis/soiloptix/soiloptix-v3-sets-api/) — The v3 - Sets API from SoilOptix — 6 operation(s) for v3 - sets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Soiloptix Agentic Access](https://apis.io/agentic-access/soiloptix/soiloptix-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Analysis](https://apis.io/schemas/soiloptix/soiloptix-analysis/)
+- [Business](https://apis.io/schemas/soiloptix/soiloptix-business/)
+- [BusinessCreate](https://apis.io/schemas/soiloptix/soiloptix-business-create/)
+- [BusinessUpdate](https://apis.io/schemas/soiloptix/soiloptix-business-update/)
+- [Farm](https://apis.io/schemas/soiloptix/soiloptix-farm/)
+- [Field](https://apis.io/schemas/soiloptix/soiloptix-field/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Soiloptix Context](https://apis.io/jsonld/soiloptix/soiloptix-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Soiloptix Openapi Overlay](https://apis.io/overlays/soiloptix/soiloptix-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SoilOptix API Rules](https://apis.io/rules/soiloptix/soiloptix-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Soiloptix Authentication](https://apis.io/security/soiloptix/soiloptix-authentication/)
+- [Soiloptix Domain Security](https://apis.io/security/soiloptix/soiloptix-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Soiloptix Scopes](https://apis.io/scopes/soiloptix/soiloptix-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://soiloptix.com/)
+- [Sign up](https://soiloptix.com/registered/)
+- [Terms of service](https://soiloptix.com/terms-of-use/)
+- [Privacy policy](https://soiloptix.com/privacy-policy/)
+- [GitHub](https://github.com/soiloptix)
+
+## API Evangelist rating
+
+**Kin Score 43.3** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 57.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 34.2 |
+
+**Agent readiness 35.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/soiloptix/](https://apis.io/providers/soiloptix/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SoilOptix: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/soiloptix/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
